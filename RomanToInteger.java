@@ -6,6 +6,15 @@
 
 */
 
+/*
+  Possible Improvements:
+  
+  * Use switch/case system instead of HashMap. 
+  * Count backwards instead of forwards (for loop going down in index instead of up)
+  * Instead of creating new arays, just use references. 
+
+*/
+
 class Solution {
     public int romanToInt(String s) {
         HashMap<Character, Integer> romanToInteger = new HashMap<Character, Integer>();
