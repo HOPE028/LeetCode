@@ -6,6 +6,14 @@
   Answer by Mohammad Pasha Khoshkebari. 
 */
 
+/*
+  Possible Improvements: 
+  
+  * Compare characters instead of strings. 
+  * Make if statements one if statement. 
+  * Use indexOf instead of current system. 
+*/
+
 class Solution {
     public static String longestCommonPrefix(String[] strs) {
 
@@ -32,11 +40,5 @@ class Solution {
 	  }
 }
 
-/*
-  Possible Improvements: 
-  
-  * Compare characters instead of strings. 
-  * Make if statements one if statement. 
-  * Use indexOf instead of current system. 
-*/
+
 
