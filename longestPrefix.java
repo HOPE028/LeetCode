@@ -31,3 +31,12 @@ class Solution {
 	        return first;
 	  }
 }
+
+/*
+  Possible Improvements: 
+  
+  * Compare characters instead of strings. 
+  * Make if statements one if statement. 
+  * Use indexOf instead of current system. 
+*/
+
